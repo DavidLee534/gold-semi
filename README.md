@@ -9,7 +9,7 @@
 ## 팀원 구성
 - 🙋🏻‍♀️ 정회영(팀장) 🔗[github/JeongHoeYeong](https://github.com/JeongHoeYeong/gold-semi)
 - 🙋🏼‍♀️ 정세영 🔗[github/wjdtpdud00](https://github.com/wjdtpdud00)
-- 🙋🏻‍♀️ 이상호 🔗[github/mutual534](https://github.com/mutual534)
+- 🙋🏻‍♀️ 이상호 🔗[github/DavidLee534](https://github.com/DavidLee534)
 - 🙋🏼‍♀️ 윤민영 🔗[github/as8285](https://github.com/as8285)
 
 
